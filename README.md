@@ -34,12 +34,22 @@ Hackathon build: an automated workflow that turns content into reusable outputs.
 
 `APIs` `Product Development`
 
-## Stack
-JavaScript · HTML/CSS · APIs · Databases · Git/GitHub · Netlify · Playwright
+## What I Work With
+
+**Data & Analytics**
+`Data Analysis` · `Data Cleaning` · `Data Engineering` · `Business Intelligence` · `KPI Design` · `Data Validation`
+
+**Development**
+`JavaScript` · `HTML/CSS` · `APIs` · `Databases` · `Web Applications` · `Git/GitHub`
+
+**Quality & Delivery**
+`Testing` · `QA` · `Responsive UI` · `Deployment` · `Data Integrity`
 
 ## Currently Learning
 - Full-stack development
 - Data engineering at scale
+
+**Also exploring:** Cybersecurity (Harvard University course) · Data Science · AI/ML · Cloud Engineering
 
 ## Hackathons & Programs
 - Knight Hacks IX — selected
