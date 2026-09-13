@@ -4,8 +4,6 @@ I build dashboards, data tools, and web apps — from cleaning raw data to shipp
 
 Founder of **VELYNT**, where I build dashboards that turn spreadsheet data into decision-ready information for small businesses.
 
-Open to opportunities in data engineering, BI, and full-stack development.
-
 ## Selected Work
 
 ### [Northstar Home](https://northstardashboard.netlify.app/) — Executive BI Dashboard
