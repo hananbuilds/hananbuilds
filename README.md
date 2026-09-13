@@ -1,12 +1,12 @@
 # Abdul Hanan
 
-I build practical projects around data, dashboards, and software.
+I build practical projects around data, dashboards, and software
 
 ## Currently Working On
 
-I'm currently building **VELYNT**, a business dashboard studio focused on turning messy business data into clean, reliable, and decision-ready dashboards.
+I'm currently building **VELYNT**, a business dashboard Agency focused on turning messy business data into clean, reliable, and decision-ready, live dashboards
 
-I'm also building and experimenting with projects that help me learn by working on real problems rather than just following tutorials.
+I am also building and experimenting with projects that help me learn by working on real problems rather than just following tutorials
 
 ## Selected Work
 
@@ -31,9 +31,10 @@ HTML · CSS · JavaScript · Python · Google Sheets · GitHub · Netlify · Pla
 
 - MLH Global Hack Week
 - Knight Hacks IX — selected
+- VT Hacks — selected
 - AI Content Engine Hackathon
 
-I use hackathons and developer programs as opportunities to build, experiment, and learn by shipping projects.
+I use hackathons and developer programs as opportunities to build, experiment, and learn by shipping projects
 
 ## Connect
 
