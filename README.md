@@ -10,7 +10,7 @@ I'm also the founder of **VELYNT**, where I build professional business dashboar
 
 ## 🚀 Selected Work
 
-### [Northstar Home](https://northstarhome.netlify.app)
+### [Northstar Home](https://northstardashboard.netlify.app/)
 
 **Executive Business Intelligence Dashboard**
 
